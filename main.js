@@ -6,4 +6,4 @@ console.log(age);
 
 console.log(`Nazywam się ${name} i mam ${age} lat`);
 
-alert("hello!");
+
